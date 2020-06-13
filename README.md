@@ -20,3 +20,17 @@ As you can see, the header in each file is ... unhelpful
 {--------------------------------------------------------------------------}
 ```
 
+Here's some screens of mlav3! Running for the first time in about 25 years. Running in [dosbox](https://www.dosbox.com/) because I STILL HAD OLD COMPILED BINARIES!
+
+![Welcome and signin](./img/welcome-alias.jpeg)
+![alias online](./img/general.jpeg)
+![also online](./img/general-also.jpeg)
+![Who is in this conference room](./img/who-is-online.jpeg)
+![Screensaver](./img/screensaver.jpeg)
+![Insert special characters](./img/helpful-ascii.jpeg)
+![Send offline message](./img/send-message.jpeg)
+![New offline message](./img/message-alert-on-signin.jpeg)
+![Check for offline message](./img/check-message-menu.jpeg)
+![Reading offline message](./img/message-reading.jpeg)
+![Send DM](./img/private-message.jpeg)
+![Receive DM](./img/private-message-received.jpeg)
