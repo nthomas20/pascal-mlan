@@ -20,7 +20,7 @@ As you can see, the header in each file is ... unhelpful
 {--------------------------------------------------------------------------}
 ```
 
-Here's some screens of mlav3! Running for the first time in about 25 years. Running in [dosbox](https://www.dosbox.com/) because I STILL HAD OLD COMPILED BINARIES!
+Here's some screens of mlanv3! Running for the first time in about 25 years. Running in [dosbox](https://www.dosbox.com/) because I STILL HAD OLD COMPILED BINARIES!
 
 ![Welcome and signin](./img/welcome-alias.jpeg)
 ![alias online](./img/general.jpeg)
